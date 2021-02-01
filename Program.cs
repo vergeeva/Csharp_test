@@ -74,7 +74,12 @@ namespace CTest
             {
                 Console.WriteLine("Ошибка при конвертации");
             }
-
+            Console.WriteLine("------------------------------");
+            //Логический тернарный оператор
+            string res = str1.Substring(0, 1) == str2.Substring(0, 1) ? "Первые символы равны" : "Первые символы не равны";
+            Console.WriteLine(format: "str1 = {0}, str2 = {1}: {2}", str1, str2, res);
+            res = str1 == str2 ? "Строки равны" : "Строки не равны";
+            Console.WriteLine(format: "str1 = {0}, str2 = {1}: {2}", str1, str2, res);
             Console.ReadKey(false);
         }
 

@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTest", "CTest.csproj", "{0E87F12E-2656-4CE4-AAB2-0AE1706480C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_Continued", "..\Lesson_Continued\Lesson_Continued.csproj", "{69628810-2DB2-4A06-A909-8959E8BED738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Массивы", "..\Масивы\Массивы.csproj", "{54DDAF93-90C4-4E5F-B23D-303E9F291711}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0E87F12E-2656-4CE4-AAB2-0AE1706480C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E87F12E-2656-4CE4-AAB2-0AE1706480C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E87F12E-2656-4CE4-AAB2-0AE1706480C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69628810-2DB2-4A06-A909-8959E8BED738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69628810-2DB2-4A06-A909-8959E8BED738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69628810-2DB2-4A06-A909-8959E8BED738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69628810-2DB2-4A06-A909-8959E8BED738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DDAF93-90C4-4E5F-B23D-303E9F291711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DDAF93-90C4-4E5F-B23D-303E9F291711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DDAF93-90C4-4E5F-B23D-303E9F291711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DDAF93-90C4-4E5F-B23D-303E9F291711}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
